@@ -1,4 +1,4 @@
-# Matlab_Neuron_Network
+# Matlab_neural_network
 implementation of learning neuron network in Matlab
 
 Main code: ****learn_nural_network***
